@@ -17,3 +17,4 @@ print("tu indice de masa corporal es: " + str(imc))
 
 
 
+contenido nuevo-conflicto-main
