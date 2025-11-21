@@ -17,4 +17,9 @@ print("tu indice de masa corporal es: " + str(imc))
 
 
 
+<<<<<<< HEAD
 contenido nuevo-conflicto-main
+=======
+contenido nuevo-conflicto-main
+>>>>>>> rama-para-generar-conflicto
+
